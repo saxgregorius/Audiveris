@@ -20,7 +20,7 @@
 //=============================================================================
 
 /***********  MODIFY THIS VALUE *****************/
-var audiverisHome = "D:/Audiveris4.1beta";
+var audiverisHome = "c:/Program files/AudiverisLtd/Audiveris4.1beta";
 /***********  MODIFY THIS VALUE *****************/
 
 var xmlFile;
